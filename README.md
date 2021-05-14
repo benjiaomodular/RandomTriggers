@@ -20,4 +20,4 @@ At the core of this module is an Arduino-based sample and hold program that take
 
 **Version 1.0**
 The initial version.
-<img src="./RandomTriggers v1.0.svg">
+<img src="RandomTriggers 1.0.svg">
