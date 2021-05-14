@@ -7,6 +7,8 @@ At the core of this module is an Arduino-based sample and hold program that take
 
 *Clock* - a constant clock pulse to move to the next set of random values.
 
+*White Noise* - A white noise source. 
+
 ### Output
 
 *CV Out* - A random CV level
