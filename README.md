@@ -1,7 +1,7 @@
 # Random Triggers
 by Benjie Jiao
 
-At the core of this module is an Arduino-based sample and hold program that takes in white noise and uses it to produce random signals.
+At the core of this module is an Arduino-based sample and hold program that takes in white noise and uses it to produce random signals. This runs on +9V.
 
 ### Inputs
 
