@@ -28,6 +28,8 @@ void loop() {
   if (digitalRead(CLOCK_PIN) == 1) {
 
     // Random gate
+    Serial.println(analogRead(THRESH_PIN1));
+    Serial.println(analogRead(THRESH_PIN2));
     if (analogRead(NOISE_PIN) > analogRead(THRESH_PIN1)) digitalWrite(GATE_PIN1, 1);
     if (analogRead(NOISE_PIN) > analogRead(THRESH_PIN2)) digitalWrite(GATE_PIN2, 1);
 
