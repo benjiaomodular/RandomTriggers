@@ -19,6 +19,11 @@ At the core of this module is an Arduino-based sample and hold program that take
 
 *Trigger Out* -  Has a random chance to produce a trigger signal at each clock pulse. Sparsity is also controlled by the threshold knobs.
 
+### Controls
+
+*Threshold* - Potentiometers control the sparsity of each random trigger channel.
+
+*Gate/Trigger* - Toggle between random trigger or random gate outputs. Also available for each channel. 
 
 ## Version History
 
