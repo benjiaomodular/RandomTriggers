@@ -17,13 +17,11 @@ At the core of this module is an Arduino-based sample and hold program that take
 
 <img src="./Images/Random CV Output.png">
 
-
 *Gate Out* - Has a random chance to produce a gate signal at each clock pulse. Sparisity is controlled by the threshold knobs.
 
-<img src="./Images/Random Trigger Output.png">
-
-
 *Trigger Out* -  Has a random chance to produce a trigger signal at each clock pulse. Sparsity is also controlled by the threshold knobs.
+
+<img src="./Images/Random Trigger Output.png">
 
 ### Controls
 
