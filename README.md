@@ -7,9 +7,9 @@ At the core of this module is an Arduino-based sample and hold program that take
 
 ### Some demos on youtube
 
-https://youtu.be/2PxfztWCuQI
+Random Triggers: https://youtu.be/2PxfztWCuQI
 
-https://youtu.be/cSdqK8XMtZY
+Random CV: https://youtu.be/cSdqK8XMtZY
 
 
 ### Inputs
