@@ -5,6 +5,13 @@ At the core of this module is an Arduino-based sample and hold program that take
 
 <img src="./Images/RandomTriggers.jpg">
 
+### Some demos on youtube
+
+https://youtu.be/2PxfztWCuQI
+
+https://youtu.be/cSdqK8XMtZY
+
+
 ### Inputs
 
 *Clock* - a constant clock pulse to move to the next set of random values.
