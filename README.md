@@ -1,6 +1,8 @@
 # Random Triggers
 by Benjie Jiao
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C24WFYS)
+
 At the core of this module is an Arduino-based sample and hold program that takes in white noise and uses it to produce random signals. This runs on +9V.
 
 <img src="./Images/RandomTriggers.jpg">
